@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amp | sed G
+ls -amp
